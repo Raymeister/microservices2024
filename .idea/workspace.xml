@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ee0542f-5816-4851-8c1d-621fb40fa3b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/microservices2024/Gateway/src/main/resources/logback-spring.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/microservices2024/cardserv/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservices2024/docker/fluentd/fluent.conf/fleunt.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices2024/docker/fluentd/fluent.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/microservices2024/ongoing/src/main/resources/logback-spring.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/microservices2024/recorder/src/main/resources/logback-spring.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/microservices2024/resolver/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices2024/docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices2024/docker/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +71,9 @@
       <recent name="C:\Users\minec\Documents\Semester 5\microServices\hjemmelekse2\microservices2024\Gateway\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\minec\Documents\Semester 5\microServices\hjemmelekse2\microservices2024\docker\fluentd\fluent.conf" />
       <recent name="C:\Users\minec\Documents\Semester 5\microServices\hjemmelekse2\microservices2024\docker\fluentd" />
+      <recent name="C:\Users\minec\Documents\Semester 5\microServices\hjemmelekse2\microservices2024\docker\consul" />
+      <recent name="C:\Users\minec\Documents\Semester 5\microServices\hjemmelekse2\microservices2024\docker\fluentd\fluent.conf" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,7 +162,7 @@
       <workItem from="1729681937194" duration="783000" />
       <workItem from="1729682961668" duration="2279000" />
       <workItem from="1729685829925" duration="6555000" />
-      <workItem from="1729712628186" duration="4209000" />
+      <workItem from="1729712628186" duration="9472000" />
     </task>
     <servers />
   </component>
